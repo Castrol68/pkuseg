@@ -1,7 +1,7 @@
 # PKUSeg
-
+##语义分割工具https://www.yanxishe.com/tweet/38841?from=timeline
 ## Introduction
-
+yuy
 PKUSeg is an open source semantic segmentation toolbox based on PyTorch, which is maintained 
 by EECS of Peking University. Maintainers are all from Key Laboratory of Machine Perception (MOE).
 
